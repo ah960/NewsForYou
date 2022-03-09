@@ -1,7 +1,5 @@
 # News for you site
 
-(find instructions below)
-
 Initially built as part of a day-long hackathon (find instructions below) in a team of three, fetching the newsAPI and displaying the information as clickable cards to link to the external article. Then refactored for additional functionality with the ability to search by terms or filter articles by category. Built in React and styled with regular CSS. 
 
 newsAPI: https://newsapi.org/
