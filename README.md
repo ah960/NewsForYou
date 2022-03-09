@@ -31,6 +31,4 @@ Focus on what features you are going to build next. Break it down into tasks/tic
 ## Show & Tell @ 16:00
 
 You'll be presenting your apps to each other, and each team member should be prepared to present about their app so an end of day wrap-up is a good idea.
-#� �N�e�w�s�S�i�t�e�R�e�a�c�t�A�P�I�
-�
-�
+
